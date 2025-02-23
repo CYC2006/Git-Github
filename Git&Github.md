@@ -141,8 +141,8 @@ Build a completely independent repo based on someone else's repo
 1. Create an account on Git and Github
 2. CYC2006 on Github has a public repository with some .md files in it. Fork my repository
 3. Create a new .md file and write down "**Hello World (Your Student ID)**"
-4. add and commit the new file with commit message: "GitHW commit"
-5. push the file onto your new repository (8%)
+4. Add and commit the new file with commit message: "GitHW commit"
+5. Push the file onto your new repository (8%)
 
 :::warning
 You will only get 8% if you complete all 5 steps
